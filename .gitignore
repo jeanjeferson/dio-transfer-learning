@@ -3,7 +3,7 @@ node_modules/
 
 # Ignore log files
 *.log
-.gitattributes
+*.gitattributes
 
 # Ignore build directories
 dist/
@@ -26,3 +26,6 @@ coverage/
 # Ignore temporary files
 *.tmp
 *.swp
+
+# ignorar o arquivo gitattributes
+.gitattributes
