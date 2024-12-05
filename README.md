@@ -91,6 +91,7 @@ main(train_split=0.8, val_split=0.1, test_split=0.1)
 
 ### Fazer Predições
 ```python
+# Usar o notebook Dio-Transfer-Learning-Predict.ipynb
 # Carregar uma imagem e fazer uma predição
 image_path = 'caminho/para/imagem.jpg'
 predicted_class, confidence = predict_image(image_path)
@@ -125,10 +126,10 @@ predicted_class, confidence = predict_image(image_path)
 
 ## 📊 Visualizações
 O projeto gera várias visualizações:
-- Gráficos de acurácia e perda durante o treinamento
-- Matriz de confusão
-- Curva ROC
-- Comparação entre modelos (CNN vs Random Forest)
+- Gráficos de acurácia e perda durante o treinamento: ![Disponível em](results/training_history.png)
+- Matriz de confusão: ![Disponível em](results/cnn_confusion_matrix.png)
+- Curva ROC: ![Disponível em](results/cnn_roc_curve.png)
+- Comparação entre modelos (CNN vs Random Forest): ![Disponível em](results/model_comparison.png)
 
 ## ✨ Principais Características
 - Implementação de Transfer Learning
