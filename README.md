@@ -4,12 +4,12 @@ Este projeto implementa um classificador de imagens usando Transfer Learning par
 
 ## 📋 Índice
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Requisitos](#requisitos)
-- [Conjunto de Dados](#conjunto-de-dados)
-- [Metodologia](#metodologia)
-- [Resultados](#resultados)
-- [Como Usar](#como-usar)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Requisitos](#-requisitos)
+- [Conjunto de Dados](#-conjunto-de-dados)
+- [Metodologia](#-metodologia)
+- [Resultados](#-resultados)
+- [Como Usar](#-como-usar)
 
 ## 🎯 Sobre o Projeto
 O objetivo principal deste projeto é aplicar técnicas de Transfer Learning em uma rede neural profunda para criar um classificador de imagens eficiente. O projeto utiliza a arquitetura MobileNetV2 pré-treinada como base e a adapta para a tarefa específica de classificação binária entre cachorros e raposas.
