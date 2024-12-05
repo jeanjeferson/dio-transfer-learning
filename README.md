@@ -3,7 +3,7 @@
 Este projeto implementa um classificador de imagens usando Transfer Learning para distinguir entre fotos de cachorros e raposas. O modelo é baseado na arquitetura MobileNetV2 pré-treinada e foi desenvolvido como parte do desafio de Transfer Learning em Deep Learning.
 
 ## 📋 Índice
-- [Sobre o Projeto](#sobre-o-projeto)
+- [Sobre o Projeto](#-sobre-o-projeto)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Requisitos](#requisitos)
 - [Conjunto de Dados](#conjunto-de-dados)
